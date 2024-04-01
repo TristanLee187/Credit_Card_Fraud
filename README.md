@@ -4,4 +4,4 @@ To reproduce the predictions, simply run the `prediction.ipynb` notebook. Note t
 
 `exploration.ipynb` and `exploration_2.ipynb` contain some of the code I used for exploration. It's quite unstructured now.
 
-Note that, in this submission, the training and testing data have been omitted from the `data` folder, for the sake of space. What's left is just the submission file.
+`report.pdf` is the report.
