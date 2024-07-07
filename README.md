@@ -1,4 +1,4 @@
-# CS506 Midterm
+# Credit Card Fraud Detection Model
 
 To reproduce the predictions, simply run the `prediction.ipynb` notebook. Note that because a Random Forest is inherently random, the produced submission probably won't be exactly the same each time. They should be mostly the same, though.
 
